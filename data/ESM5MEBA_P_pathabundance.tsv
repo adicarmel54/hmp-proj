@@ -1,0 +1,56 @@
+# Pathway	ESM5MEBA_P_Abundance
+UNMAPPED	245097.2137066782
+UNINTEGRATED	381290.9319517973
+UNINTEGRATED|unclassified	112856.2450338288
+UNINTEGRATED|g__Roseburia.s__Roseburia_intestinalis	53675.8289857228
+UNINTEGRATED|g__Clostridium.s__Clostridium_symbiosum	29195.1793194658
+UNINTEGRATED|g__Clostridium.s__Clostridium_nexile	10237.1063428483
+PWY-7219: adenosine ribonucleotides de novo biosynthesis	408.4413253217
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|unclassified	397.8989951750
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Clostridium.s__Clostridium_symbiosum	26.9656227703
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_intestinalis	14.8899680543
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	102.6951552131
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)	78.8246291865
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Roseburia.s__Roseburia_intestinalis	50.1619720144
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	54.8408160609
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Roseburia.s__Roseburia_intestinalis	47.9620237000
+PWY-6737: starch degradation V	37.7801659457
+PWY-6737: starch degradation V|g__Roseburia.s__Roseburia_intestinalis	28.2571467071
+PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_symbiosum	7.5170246967
+PWY66-422: D-galactose degradation V (Leloir pathway)	29.0419724626
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Roseburia.s__Roseburia_intestinalis	21.2438916937
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I	27.7732355470
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	27.1575873117
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_symbiosum	5.9721148728
+VALSYN-PWY: L-valine biosynthesis	27.1575873117
+VALSYN-PWY: L-valine biosynthesis|g__Clostridium.s__Clostridium_symbiosum	5.9721148728
+PWY-5100: pyruvate fermentation to acetate and lactate II	25.1930229860
+CALVIN-PWY: Calvin-Benson-Bassham cycle	23.1547624967
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation	19.6374177643
+PWY-5097: L-lysine biosynthesis VI	16.9935407057
+PWY-6527: stachyose degradation	14.8328500070
+PWY-6527: stachyose degradation|g__Roseburia.s__Roseburia_intestinalis	12.4044325568
+PWY-5667: CDP-diacylglycerol biosynthesis I	14.5365337152
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Clostridium.s__Clostridium_symbiosum	13.0815296630
+PWY0-1319: CDP-diacylglycerol biosynthesis II	14.5365337152
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Clostridium.s__Clostridium_symbiosum	13.0815296630
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	11.9511640805
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Roseburia.s__Roseburia_intestinalis	3.6255186804
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Clostridium.s__Clostridium_nexile	1.1002613121
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	11.9511640805
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Roseburia.s__Roseburia_intestinalis	3.6255186804
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Clostridium.s__Clostridium_nexile	1.1002613121
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I	11.3665958190
+PWY-1042: glycolysis IV (plant cytosol)	9.0424022769
+PWY-7208: superpathway of pyrimidine nucleobases salvage	7.9058528617
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	7.2959925314
+PWY-7242: D-fructuronate degradation	7.2787587415
+ARO-PWY: chorismate biosynthesis I	6.8786476053
+THRESYN-PWY: superpathway of L-threonine biosynthesis	6.3976029722
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	5.2403377391
+PWY-4984: urea cycle	4.9723771487
+PWY-5659: GDP-mannose biosynthesis	4.9420798886
+PWY-5686: UMP biosynthesis	2.9281257013
+PWY0-1296: purine ribonucleosides degradation	1.9025784500
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I	1.7973308982
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Roseburia.s__Roseburia_intestinalis	1.7973308982

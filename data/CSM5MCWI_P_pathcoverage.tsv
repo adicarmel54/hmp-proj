@@ -1,0 +1,19 @@
+# Pathway	CSM5MCWI_P_Coverage
+UNMAPPED	1.0000000000
+UNINTEGRATED	1.0000000000
+UNINTEGRATED|g__Flavonifractor.s__Flavonifractor_plautii	1.0000000000
+UNINTEGRATED|g__Lachnospiraceae_noname.s__Lachnospiraceae_bacterium_7_1_58FAA	1.0000000000
+UNINTEGRATED|g__Roseburia.s__Roseburia_inulinivorans	1.0000000000
+PWY-6737: starch degradation V	0.9997170899
+PWY-7219: adenosine ribonucleotides de novo biosynthesis	0.8615433019
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_inulinivorans	0.0003489537
+PWY-5667: CDP-diacylglycerol biosynthesis I	0.6554268019
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Flavonifractor.s__Flavonifractor_plautii	0.7158720401
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Lachnospiraceae_noname.s__Lachnospiraceae_bacterium_7_1_58FAA	0.5309198414
+PWY0-1319: CDP-diacylglycerol biosynthesis II	0.6554268019
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Flavonifractor.s__Flavonifractor_plautii	0.7158720401
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Lachnospiraceae_noname.s__Lachnospiraceae_bacterium_7_1_58FAA	0.5309198414
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)	0.0662454405
+PWY-5100: pyruvate fermentation to acetate and lactate II	0.0742648292
+PWY-1042: glycolysis IV (plant cytosol)	0.0115786902
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	0.0013901597

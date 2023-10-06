@@ -1,0 +1,56 @@
+# Pathway	ESM5MEBA_P_Coverage
+UNMAPPED	1.0000000000
+UNINTEGRATED	1.0000000000
+UNINTEGRATED|g__Clostridium.s__Clostridium_nexile	1.0000000000
+UNINTEGRATED|g__Clostridium.s__Clostridium_symbiosum	1.0000000000
+UNINTEGRATED|g__Roseburia.s__Roseburia_intestinalis	1.0000000000
+UNINTEGRATED|unclassified	1.0000000000
+PWY-7219: adenosine ribonucleotides de novo biosynthesis	1.0000000000
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|unclassified	1.0000000000
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Clostridium.s__Clostridium_symbiosum	0.9530012705
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Roseburia.s__Roseburia_intestinalis	0.2040886414
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	0.9999976673
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)	0.9996907402
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)|g__Roseburia.s__Roseburia_intestinalis	0.9909536336
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	0.9354646386
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Roseburia.s__Roseburia_intestinalis	0.9955147098
+PWY-6737: starch degradation V	0.9050491482
+PWY-6737: starch degradation V|g__Roseburia.s__Roseburia_intestinalis	0.9472300965
+PWY-6737: starch degradation V|g__Clostridium.s__Clostridium_symbiosum	0.0238005719
+PWY66-422: D-galactose degradation V (Leloir pathway)	0.1889743166
+PWY66-422: D-galactose degradation V (Leloir pathway)|g__Roseburia.s__Roseburia_intestinalis	0.6690229716
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I	0.3429273109
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	0.5248366826
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|g__Clostridium.s__Clostridium_symbiosum	0.0040146375
+VALSYN-PWY: L-valine biosynthesis	0.5248366826
+VALSYN-PWY: L-valine biosynthesis|g__Clostridium.s__Clostridium_symbiosum	0.0040146375
+PWY-5100: pyruvate fermentation to acetate and lactate II	0.3181599745
+CALVIN-PWY: Calvin-Benson-Bassham cycle	0.0001465086
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation	0.0424712146
+PWY-5097: L-lysine biosynthesis VI	0.0024440953
+PWY-6527: stachyose degradation	0.0078003111
+PWY-6527: stachyose degradation|g__Roseburia.s__Roseburia_intestinalis	0.2209185622
+PWY-5667: CDP-diacylglycerol biosynthesis I	0.0028437021
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Clostridium.s__Clostridium_symbiosum	0.1928934355
+PWY0-1319: CDP-diacylglycerol biosynthesis II	0.0028437021
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Clostridium.s__Clostridium_symbiosum	0.1928934355
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	0.0004854560
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Roseburia.s__Roseburia_intestinalis	0.0000575610
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Clostridium.s__Clostridium_nexile	0.2085611331
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	0.0004854560
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Roseburia.s__Roseburia_intestinalis	0.0000575610
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Clostridium.s__Clostridium_nexile	0.2085611331
+DTDPRHAMSYN-PWY: dTDP-L-rhamnose biosynthesis I	0.0023455782
+PWY-1042: glycolysis IV (plant cytosol)	0.0000000047
+PWY-7208: superpathway of pyrimidine nucleobases salvage	0.0000050483
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	0.0000043516
+PWY-7242: D-fructuronate degradation	0.0000063161
+ARO-PWY: chorismate biosynthesis I	0.0000000003
+THRESYN-PWY: superpathway of L-threonine biosynthesis	0.0000016693
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	0.0000000002
+PWY-4984: urea cycle	0.0000000291
+PWY-5659: GDP-mannose biosynthesis	0.0000000601
+PWY-5686: UMP biosynthesis	0.0000000000
+PWY0-1296: purine ribonucleosides degradation	0.0000000000
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I	0.0000000000
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|g__Roseburia.s__Roseburia_intestinalis	0.0000002494

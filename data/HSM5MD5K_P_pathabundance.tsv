@@ -1,0 +1,49 @@
+# Pathway	HSM5MD5K_P_Abundance
+UNMAPPED	461257.2894793746
+UNINTEGRATED	1048686.1850750607
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_uniformis	488015.8639109415
+UNINTEGRATED|g__Bacteroides.s__Bacteroides_vulgatus	79387.3494847379
+UNINTEGRATED|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	13741.8550869328
+UNINTEGRATED|g__Alistipes.s__Alistipes_putredinis	1370.3342621694
+PWY-7219: adenosine ribonucleotides de novo biosynthesis	52.5728285406
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_vulgatus	35.3040363202
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Alistipes.s__Alistipes_putredinis	7.7271755360
+PWY-7219: adenosine ribonucleotides de novo biosynthesis|g__Bacteroides.s__Bacteroides_uniformis	1.9055691808
+PWY-1042: glycolysis IV (plant cytosol)	42.7755662292
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)	36.8730004481
+PWY66-400: glycolysis VI (metazoan)	36.1222152409
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)	25.7754463422
+PWY-5484: glycolysis II (from fructose 6-phosphate)	25.7646490166
+PWY-3841: folate transformations II	21.5393509061
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I	20.5695433641
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	14.7913425863
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II	14.6384287794
+GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation	14.3413549279
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I	10.4656905444
+GALACTUROCAT-PWY: D-galacturonate degradation I	10.0993250017
+GALACTUROCAT-PWY: D-galacturonate degradation I|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	2.9666536032
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II	9.2129280555
+PWY-7242: D-fructuronate degradation	9.0331323250
+PWY-7242: D-fructuronate degradation|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	8.5113290392
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation	8.2385887608
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	7.5702864915
+PWY-7208: superpathway of pyrimidine nucleobases salvage	8.0659931102
+PWY-2942: L-lysine biosynthesis III	7.9380708182
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II	7.6249142518
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II	7.6249142518
+PWY-5177: glutaryl-CoA degradation	6.5590784194
+PWY-5177: glutaryl-CoA degradation|g__Faecalibacterium.s__Faecalibacterium_prausnitzii	6.5588551018
+CALVIN-PWY: Calvin-Benson-Bassham cycle	5.7312869642
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I	4.1808093240
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	3.9800276608
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III	3.8369474712
+PWY-5097: L-lysine biosynthesis VI	2.6515490722
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation	2.5889967638
+PWY-5695: urate biosynthesis/inosine 5'-phosphate degradation	2.5228506379
+PANTO-PWY: phosphopantothenate biosynthesis I	2.3591705087
+COA-PWY-1: coenzyme A biosynthesis II (mammalian)	1.8537594427
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch)	1.8303012520
+PWY-6609: adenine and adenosine salvage III	1.7615635643
+THRESYN-PWY: superpathway of L-threonine biosynthesis	1.6793918837
+PWY0-1296: purine ribonucleosides degradation	1.4410705777
+HISDEG-PWY: L-histidine degradation I	1.0065563422
