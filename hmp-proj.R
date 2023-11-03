@@ -1,7 +1,12 @@
+# setwd("/Users/mayalightfoot/Desktop/bst210/project")
+#load("RData")
 
+setwd("/Users/adicarmel/Desktop/HARVARD/S1/BST\ 210/microbiome-metabolome-curated-data/data/processed_data/iHMP_IBDMDB_2019")
 
-setwd("/Users/mayalightfoot/Desktop/bst210/project")
-load("RData")
+metadata <- read.table("metadata.tsv", sep = "\t", header = TRUE)
+genera <- read.table("genera.tsv", sep = "\t", header = TRUE)
+mtb <- read.table("mtb.map.tsv", sep = "\t", header = TRUE)
+
 
 # EDA
 ## metadata
@@ -20,31 +25,53 @@ dim(mtb)
 print(head(mtb))
 summary
 
-
 # plot densities
+library(ggplot2)
 ## age
-metadata |> 
+metadata |>
   filter(!is.na(consent_age)) |>
-  ggplot(aes(x = consent_age, color = Study.Group)) +
+  ggplot(aes(x = consent_age, color = Study.Group), data=metadata) +
   geom_density() +
   ggtitle("Age Distribution by Study Group")
 
 ## gender
 metadata |> 
   filter(!is.na(Gender)) |>
-  ggplot(aes(x = Gender, fill = Study.Group)) +
+  ggplot(aes(x = Gender, fill = Study.Group), data=metadata) +
   geom_bar() +
   ggtitle("Gender by Study Group")
 
 ## antibiotic use
 metadata |> 
   filter(!is.na(Antibiotics)) |>
-  ggplot(aes(x = Antibiotics, fill = Study.Group)) +
+  ggplot(aes(x = Antibiotics, fill = Study.Group), data=metadata) +
   geom_bar() +
   ggtitle("Antibiotic Use by Study Group")
 
 
+# Missing data analysis
+install.packages("naniar")
+library(naniar)
+library(dplyr)
 
+vis_miss(metadata) # useful result, 8.2% missing
+vis_miss(t(genera)) # doesn't work, too many columns
+vis_miss(mtb) # no missing data
+missing_proportion <- colMeans(is.na(genera))
+zero_proportion <- colMeans(genera == 0)
+table(missing_proportion)
+table(zero_proportion)
+
+ggplot(data = data.frame(zero_proportion), aes(x = zero_proportion)) +
+  geom_histogram(binwidth = 0.01, fill = "skyblue", color = "black", alpha = 0.7) +
+  labs(title = "Frequency Distribution of Zeroes in Genera Columns",
+       x = "Proportion of Zero Values",
+       y = "Frequency (# of columns/microbes)")
+
+sum(zero_proportion == 1)/length(zero_proportion)
+sum(zero_proportion > 0.995)/length(zero_proportion)
+sum(zero_proportion > 0.99)/length(zero_proportion)
+sum(zero_proportion > 0.95)/length(zero_proportion)
 
 
 # Reduce Dimensionality of Data
